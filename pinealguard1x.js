@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <p>Redirecting you to the official page...</p>
 
 <script>
@@ -9,3 +11,4 @@ setTimeout(function () {
 <noscript>
 <meta http-equiv="refresh" content="0;url=https://pinealguardianvip.com/ds/indexts.php#aff=rssk78">
 </noscript>
+  </html>
